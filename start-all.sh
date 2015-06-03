@@ -1,0 +1,1 @@
+docker start elasticsearch kibana datastore logstash-datastore service logstash-service

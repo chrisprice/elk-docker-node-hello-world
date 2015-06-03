@@ -1,0 +1,1 @@
+docker stop elasticsearch kibana datastore logstash-datastore service logstash-service
